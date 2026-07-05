@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "generated": "2026-06-29T18:00:00",
+  "project": "AgentProjects",
+  "endpoints": [],
+  "frontend_calls": [],
+  "schemas": {},
+  "_note": "Run contract_extractor.py <project_root> to populate from your codebase. Review manually before enforcing with contract_check.py.",
+  "_usage": {
+    "codex": "After backend change, contract_check.py detects orphan frontend calls and uncalled endpoints.",
+    "claude_code": "After frontend change, contract_check.py detects calls to missing backend endpoints."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "model": "deepseek-v4-pro",
+  "source": ".claude/settings.json",
+  "confidence": "medium",
+  "calibration": "elevated",
+  "deepseek_active": true,
+  "frontier_active": false,
+  "detected_at": "2026-07-05T12:03:00.619261",
+  "version": "v5.35"
+}

@@ -1,0 +1,48 @@
+{
+  "_description": "Session routing table v1.1 -- +Codex auto-sync paths, +Quant V2/Trading",
+  "_version": "1.1",
+  "routes": {
+    "cx": {
+      "C:/Users/15002/Documents/Quant System V2": "Quant System V2",
+      "C:/Users/15002/Documents/Quant System V3": "Quant System V3",
+      "E:/AgentHub/AgentProjects/Quant System V3": "Quant System V3",
+      "C:/Users/15002/Documents/Trading": "Trading",
+      "C:/Users/15002/Documents/Writer": "Writer",
+      "C:/Users/15002/Documents/games": "Games",
+      "E:/AgentHub/AgentProjects/CET6-Academy-3D": "CET6-Academy-3D",
+      "E:/AgentHub/AgentProjects/Side Job": "Side Job",
+      "E:/AgentHub/AgentProjects/novels": "Novels",
+      "E:/AgentHub/AgentProjects/games": "Games",
+      "E:/AgentHub/AgentProjects/writer": "Writer",
+      "E:/AgentHub/AgentProjects/FreeTalk": "FreeTalk",
+      "E:/Users/15002/Documents/Agent Developing Environment": "Agent Developing Environment",
+      "E:/AgentHub/AgentProjects/agent developing environment": "Agent Developing Environment",
+      "C:/Users/15002/Documents/Codex": "FreeTalk",
+      "E:/AgentHub/AgentProjects/Quant System V2": "Quant System V2",
+      "E:/AgentHub/AgentProjects/Trading": "Trading",
+      "C:/Users/15002/Documents/Codex/2026-07-05/i-have": "FreeTalk"
+    },
+    "cc": {
+      "C:/Users/15002": "FreeTalk",
+      "C:/Users/15002/Desktop": "FreeTalk",
+      "E:/AgentHub/AgentProjects": "AgentHub",
+      "E:/Projects": "Projects"
+    }
+  },
+  "defaults": {
+    "cx": "FreeTalk",
+    "cc": "FreeTalk"
+  },
+  "project_aliases": {
+    "quant": "Quant System V3",
+    "trading": "Trading",
+    "writer": "Writer",
+    "games": "Games",
+    "cet6": "CET6-Academy-3D",
+    "ade": "Agent Developing Environment",
+    "novels": "Novels",
+    "sidejob": "Side Job",
+    "freetalk": "FreeTalk",
+    "quantv2": "Quant System V2"
+  }
+}

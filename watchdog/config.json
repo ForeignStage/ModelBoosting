@@ -1,0 +1,26 @@
+{
+  "version": "v5.35",
+  "description": "Single source of truth for AgentBoosting paths. Edit this file when moving to a new machine.",
+  "paths": {
+    "python_exe": "C:/Users/15002/AppData/Local/Programs/Python/Python313/python.exe",
+    "agents_md": "E:/AgentHub/AGENTS.md",
+    "agent_hub_root": "E:/AgentHub",
+    "godcreating_root": "E:/AgentHub/AgentBoosting/GodCreating",
+    "user_home": "C:/Users/15002",
+    "inkscape_path": "C:/Program Files/Inkscape",
+    "clawd_on_desk": "C:/Users/15002/clawd-on-desk"
+  },
+  "watchdog": {
+    "dir": "E:/AgentHub/AgentBoosting/GodCreating/watchdog",
+    "boot_ttl_minutes": 1440,
+    "heartbeat_max_age": 1440,
+    "heartbeat_warn_age": 720
+  },
+  "budget": {
+    "default_limit_rmb": 10.0,
+    "price_per_1k": {
+      "deepseek-v4-pro": {"input": 0.003, "output": 0.006, "cache": 0.0000025},
+      "deepseek-v4-flash": {"input": 0.001, "output": 0.002, "cache": 0.00002}
+    }
+  }
+}

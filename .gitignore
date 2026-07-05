@@ -1,0 +1,30 @@
+# Logs & backups
+logs/
+backups/
+*.log
+*.bak
+*.bak.*
+*.mojibak
+*.pre_mojibake_fix
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Runtime state (locks, tokens, logs)
+watchdog/locks/
+watchdog/boot_token
+watchdog/integrity.sha
+watchdog/spiral_log.json
+routing/route_log.json
+
+# OS
+.DS_Store
+Thumbs.db
